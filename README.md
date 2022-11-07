@@ -1,6 +1,6 @@
 ### Hi there :raising_hand_man:
 - I'm Huynh Minh Tu. I'm learning informatics at HCMUS - University of Science 🏫
-- I'm interested in mobile development, Flutter is my favorite framework :hearts:
+- I'm interested in software development :hearts:
 - You can contact me via minhtu250802@gmail.com 📫
 
 <!--
