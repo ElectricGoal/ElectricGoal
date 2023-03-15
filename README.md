@@ -1,6 +1,6 @@
 ### Hi there :raising_hand_man:
 - I'm Huynh Minh Tu. I'm learning informatics at HCMUS - University of Science 🏫
-- I'm interested in software development :hearts:
+- I'm interested in data engineering :hearts:
 - You can contact me via minhtu250802@gmail.com 📫
 
 <!--
