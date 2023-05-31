@@ -3,6 +3,12 @@
 - I'm interested in software and data engineering :hearts:
 - You can contact me via [Linkedin](https://www.linkedin.com/in/electricgoal) 📫
 
+
+
+`Satisfy Your Soul, Not Society`
+
+![img](h.gif)
+
 <!--
 **ElectricGoal/ElectricGoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
