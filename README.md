@@ -8,7 +8,7 @@
 `Satisfy Your Soul, Not Society`
 
 <div align="center">
-    <img src="h.gif" width="70%">
+    <img src="h.gif" width="50%">
 </div>
 
 <!--
