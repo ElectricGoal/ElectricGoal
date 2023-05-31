@@ -7,7 +7,9 @@
 
 `Satisfy Your Soul, Not Society`
 
-![img](h.gif)
+<div align="center">
+    <img src="h.gif" width="70%">
+</div>
 
 <!--
 **ElectricGoal/ElectricGoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
