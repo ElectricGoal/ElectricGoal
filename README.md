@@ -1,7 +1,6 @@
 ### Hi there :raising_hand_man:
-- I'm currently learning CS at HCMUS - University of Science 🏫
+- I'm currently learning CS 🏫
 - I'm interested in software and data engineering :hearts:
-- You can contact me via [Linkedin](https://www.linkedin.com/in/electricgoal) 📫
 
 
 
